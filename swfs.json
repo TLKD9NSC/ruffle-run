@@ -30,9 +30,16 @@
     {
       "location": "swfs/the_binding_of_isac",
       "title": "The Binding of Isac",
-      "author": "Adam Phillips",
+      "author": "Game People",
       "authorLink": "https://bitey.com",
-      "type": "GAme"
+      "config": {
+        "autoplay": "on",
+        "backgroundColor": "#31497D",
+        "letterbox": "off",
+        "unmuteOverlay": "hidden",
+        "forceScale": false,
+        "forceAlign": false
+      }
     }
   ]
 }
